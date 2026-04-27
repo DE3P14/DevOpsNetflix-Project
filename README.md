@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <img src="./public/assets/DevSecOps.png" alt="Logo" width="100%" height="100%">
 
@@ -756,3 +757,7 @@ To deploy an application with ArgoCD, you can follow these steps, which I'll out
 
 1. **Cleanup AWS EC2 Instances:**
     - Terminate AWS EC2 instances that are no longer needed.
+=======
+# DevOpsNetflix-Project
+DevOps Project
+>>>>>>> dbadbd6ec16512c47ea908217e583991e33077f5
